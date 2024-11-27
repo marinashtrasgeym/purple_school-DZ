@@ -1,0 +1,8 @@
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt install -f nginx
+
+apt list nginx
+
+Listing...
+nginx/jammy-updates,jammy-security,now 1.18.0-6ubuntu14.5 amd64 [installed]

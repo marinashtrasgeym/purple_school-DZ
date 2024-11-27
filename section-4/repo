@@ -1,0 +1,14 @@
+sudo add-apt-repository -r universe
+
+Removing component(s) 'universe' from all repositories.
+Press [ENTER] to continue or Ctrl-c to cancel.
+Removed universe from: deb http://us.archive.ubuntu.com/ubuntu/ jammy multiverse restricted main
+Removed universe from: deb http://us.archive.ubuntu.com/ubuntu/ jammy-updates multiverse restricted main
+Removed universe from: deb http://us.archive.ubuntu.com/ubuntu/ jammy-backports restricted multiverse main
+Removed universe from: deb http://security.ubuntu.com/ubuntu jammy-security multiverse restricted main
+Get:1 http://security.ubuntu.com/ubuntu jammy-security InRelease [129 kB]
+Hit:2 http://us.archive.ubuntu.com/ubuntu jammy InRelease
+Hit:3 http://us.archive.ubuntu.com/ubuntu jammy-updates InRelease
+Hit:4 http://us.archive.ubuntu.com/ubuntu jammy-backports InRelease
+Fetched 129 kB in 2s (61.4 kB/s)
+Reading package lists... Done

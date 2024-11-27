@@ -1,0 +1,17 @@
+apt search jquery highlight
+
+
+Sorting...
+Full Text Search...
+libjs-jquery-datetimepicker/jammy,jammy 2.5.20+ds-1 all
+  Date and Time Picker plugin for jQuery
+
+libjs-jquery-jush/jammy,jammy 12-3 all
+  jQuery Syntax Highlighter
+
+sudo apt install libjs-jquery-jush
+
+apt list libjs-jquery-jush
+
+Listing...
+libjs-jquery-jush/jammy,jammy,now 12-3 all [installed]

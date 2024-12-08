@@ -1,0 +1,1 @@
+find /home/max/dz/DZ/section-5/docs -type f -name copyright | xargs grep ^[[:space:]]*[0-9] > strings

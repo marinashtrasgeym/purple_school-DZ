@@ -1,0 +1,7 @@
+/home/max/empty/file777:You got me!
+total 16
+1316374 -rw-rw-r-- 1 max max  936 Dec  8 07:16 answer-left
+1319170 -rw-rw-r-- 1 max max 1969 Dec  8 07:17 answer-right
+1319793 -rw-rw-r-- 1 max max  877 Dec  8 07:33 crontab
+1319551 -rw-rw-r-- 1 max max   36 Dec  8 07:39 empty
+1319625 lrwxrwxrwx 1 max max    5 Dec  8 07:41 link -> empty
